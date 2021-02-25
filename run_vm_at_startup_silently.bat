@@ -1,0 +1,1 @@
+"{vmrun.exe path}" start "{.vmx path}" nogui
